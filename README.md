@@ -1,5 +1,7 @@
 qb-radiocar
 
+Radio for car
+
 Resource made by nuggets for qbcore framework
 
 ---- How to install ----
